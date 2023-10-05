@@ -38,7 +38,7 @@
           <h1><strong>APHICHAYA LUEANGUBON</strong></h1>
           <h2> อภิชญา เหลืองอุบล </h2>
           <hr>
-          <p> นักศึกษา </p>
+          <p>640510685 นักศึกษา </p>
         </div>
       </div>
       <div class="row grid gap-0 row-gap-3 ">
@@ -56,7 +56,7 @@
           <h5> ติดต่อ</h5>
           <hr>
           <p> <img src="images/phone-call.png" alt="icon phone" height="25" width="25">&nbsp;
-            0946291102<br>
+            094-629-1102<br>
             <img src="images/email.png" alt="icon email" height="25" width="25">&nbsp;
             <a href="mailto:Lueangubon_a@su.ac.th" target="_blank" style="color: #111911;">
               Lueangubon_a@su.ac.th</a><br>
@@ -127,8 +127,7 @@
           <hr>
           <p> ทำ Subtitle <a href="https://drive.google.com/file/d/1CJVWRXHa0XfIAqv_XrRMr5pSCrCn8Yo1/view?usp=sharing"
 
-              target="_blank" style="color: white;">download.
-            </a> <br>
+              target="_blank" style="color: white;">download. </a> <br>
             ตัดคลิปส่งงาน <a href="https://www.canva.com/design/DAFasiEHBwA/tFXZ_87abPYWljPo5qJu8A/edit"
 
               target="_blank" style="color: white;">download. </a></p>
@@ -140,5 +139,6 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
+    
   </body>
 </html>
