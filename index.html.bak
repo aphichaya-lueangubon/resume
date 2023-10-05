@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&amp;display=swap"
+
+      rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100&amp;display=swap"
+
+      rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&amp;display=swap"
+
+      rel="stylesheet">
+  </head>
+  <body class="my-bg">
+    <div class="container ">
+      <div class="row grid gap-0 row-gap-3 mt-5 ">
+        <div class="col-md-4 col-sm-4 text-end py-2 my-2 g-col-12 my-bg-2  ">
+          <div> <img src="images/640510685%20.jpeg" class="img-fluid rounded my-border "
+
+              alt="image" height="180" width="150"> </div>
+        </div>
+        <div class="col-md-8 col-sm-8 py-2 my-2 g-col-12 my-bg-2 my-text">
+          <h1><strong>APHICHAYA LUEANGUBON</strong></h1>
+          <h2> อภิชญา เหลืองอุบล </h2>
+          <hr>
+          <p> นักศึกษา </p>
+        </div>
+      </div>
+      <div class="row grid gap-0 row-gap-3 ">
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12  ">
+          <h5> ข้อมูลส่วนตัว</h5>
+          <hr>
+          <p> <strong>ชื่อ-สกุล</strong> นางสาว อภิชญา เหลืองอุบล<br>
+            <strong>วัน/เดือน/ปีเกิด</strong> วันที่ 7 เดือน มิถุนายม พ.ศ. 2544<br>
+            <strong>อายุ</strong> 22 ปี<br>
+            <strong>สัญชาติ</strong> ไทย<br>
+            <strong>ศาสนา</strong> พุทธ<br>
+            <strong>เพศ</strong> หญิง
+          </p>
+        </div>
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12  ">
+          <h5> ติดต่อ</h5>
+          <hr>
+          <p> <img src="images/phone-call.png" alt="icon phone" height="25" width="25">&nbsp;
+            0946291102<br>
+            <img src="images/email.png" alt="icon email" height="25" width="25">&nbsp;
+            <a href="mailto:Lueangubon_a@su.ac.th" target="_blank" style="color: #111911;">
+              Lueangubon_a@su.ac.th</a><br>
+            <img src="images/placeholder.png" alt="icon" height="25" width="25">&nbsp;
+            57/29 ถนนศรีจันทร์ ซอยศรีจันทร์15/1 ตำบลในเมือง อำเภอเมืองขอนแก่น
+            จังหวัดขอนแก่น 70000
+          </p>
+        </div>
+      </div>
+      <div class="row  grid gap-0 row-gap-3 ">
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12  my-bg-2 my-text ">
+          <h5>ประวัติ</h5>
+          <hr>
+          <p> จบการศึกษาระดับมัธยมปลายจากโรงเรียนสาธิตมหาวิทยาลัยขอนแก่น
+            แผนการเรียนวิทยาศาสตร์ - คณิตศาสตร์
+            และระหว่างนั้นก็เริ่มมีความสนใจทางด้านสายภาษาจึงได้เข้าศึกษาต่อในระดับอุดมศึกษา
+            ที่ คณะอักษรศาสตร์ มหาวิทยาลัยศิลปากร วิทยาเขตพระราชวังสนามจันทร์
+            นอกจากนี้ยังมีความสนใจทางด้านการแปลเป็นพิเศษจึงได้เริ่มทำ Subtitle
+            โดยเป็นการแปลคลิปวิดีโอสั้น ๆ ผ่านแพลตฟอร์มออนไลน์เป็นงานอดิเรก </p>
+        </div>
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12 my-bg-2  my-text">
+          <h5> เป้าหมายในการทำงาน</h5>
+          <hr>
+          <p> เนื่องจากมีความสนใจในด้านภาษา และได้เริ่มลองทำ Subtitle
+            เป็นงานอดิเรกมาสักพักแล้วพบว่าชื่นชอบการแปลเป็นอย่างมาก
+            ดังนั้นจึงมีความต้องการที่จะสมัครงานในตำแหน่ง นักแปล เพื่อนำความรู้
+            ทักษะ และประสบการณ์ทำ Subtitle ที่มีมาใช้ในการทำงาน
+            และนำความรู้ที่ได้รับจากการทำงานมาต่อยอดและพัฒนาความสามารถของตนเองให้ดียิ่งขึ้น
+            เพื่อการทำงานที่มีประสิทธิภาพและเพื่อความก้าวหน้าของบริษัท
+          </p>
+        </div>
+      </div>
+      <div class="row grid gap-0 row-gap-3 ">
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12  ">
+          <h5>การศึกษา</h5>
+          <hr>
+          <p> <strong>⦁ 2564-2568</strong><br>
+            ระดับอุดมศึกษาปีที่ 1-4<br>
+            คณะอักษรศาสตร์ สาขาวิชาสารสนเทศศาสตร์และบรรณารักษศาสตร์<br>
+            มหาวิทยาลัยศิลปากร วิทยาเขตพระราชวังสนามจันทร์ จังหวัดนครปฐม<br>
+           - ได้รับทุนการศึกษาผลการเรียนเด่นประจำปีการศึกษา 2565 <a href="file/1.pdf"
+
+              target="_blank" style="color: #0d140d;">download.</a> </p>
+          <p> <strong>⦁ 2556-2562</strong><br>
+            ระดับมัธยมศึกษาปีที่ 1-6<br>
+            แผนการเรียนวิทยาศาสตร์ - คณิตศาสตร์<br>
+            โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา จังหวัดขอนแก่น
+          </p>
+        </div>
+        <div class="col-md-6 col-sm-6 py-2  my-2 g-col-12  ">
+          <h5>ทักษะและความสามารถ</h5>
+          <hr>
+          <p> <strong>⦁ โปรแกรมคอมพิวเตอร์</strong><br>
+            โปรแกรม Microsoft Word<br>
+            โปรแกรม Microsoft PowerPoint </p>
+          <p> <strong>⦁ ภาษา</strong><br>
+            ภาษาไทย<br>
+            ภาษาอังกฤษ<br>
+            ภาษาเกาหลี </p>
+        </div>
+      </div>
+      <div class="row grid gap-0 row-gap-3 mb-5 ">
+        <div class="col-md-6 col-sm-6 py-2 my-2   g-col-12 my-bg-2 my-text  ">
+          <h5> การสอบวัดระดับ</h5>
+          <hr>
+          <p> TOPIK <a href="file/TOPIK.pdf" target="_blank" style="color: white;">download.</a>
+            <br>
+            TOEFL ITP <a href="file/TOEFL.pdf" target="_blank" style="color: white;">download.</a>
+          </p>
+        </div>
+        <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12 my-bg-2 my-text ">
+          <h5>ผลงาน</h5>
+          <hr>
+          <p> ทำ Subtitle <a href="file/video.mov" target="_blank" style="color: white;">download.
+              </a><br> ตัดคลิปส่งงาน <a href="https://www.canva.com/design/DAFasiEHBwA/tFXZ_87abPYWljPo5qJu8A/edit"
+
+              target="_blank" style="color: white;">download. </a></p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+    
+  </body>
+</html>
