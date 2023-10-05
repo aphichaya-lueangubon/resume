@@ -50,8 +50,7 @@
             <strong>อายุ</strong> 22 ปี<br>
             <strong>สัญชาติ</strong> ไทย<br>
             <strong>ศาสนา</strong> พุทธ<br>
-            <strong>เพศ</strong> หญิง
-          </p>
+            <strong>เพศ</strong> หญิง </p>
         </div>
         <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12  ">
           <h5> ติดต่อ</h5>
@@ -63,8 +62,7 @@
               Lueangubon_a@su.ac.th</a><br>
             <img src="images/placeholder.png" alt="icon" height="25" width="25">&nbsp;
             57/29 ถนนศรีจันทร์ ซอยศรีจันทร์15/1 ตำบลในเมือง อำเภอเมืองขอนแก่น
-            จังหวัดขอนแก่น 70000
-          </p>
+            จังหวัดขอนแก่น 70000 </p>
         </div>
       </div>
       <div class="row  grid gap-0 row-gap-3 ">
@@ -86,8 +84,7 @@
             ดังนั้นจึงมีความต้องการที่จะสมัครงานในตำแหน่ง นักแปล เพื่อนำความรู้
             ทักษะ และประสบการณ์ทำ Subtitle ที่มีมาใช้ในการทำงาน
             และนำความรู้ที่ได้รับจากการทำงานมาต่อยอดและพัฒนาความสามารถของตนเองให้ดียิ่งขึ้น
-            เพื่อการทำงานที่มีประสิทธิภาพและเพื่อความก้าวหน้าของบริษัท
-          </p>
+            เพื่อการทำงานที่มีประสิทธิภาพและเพื่อความก้าวหน้าของบริษัท </p>
         </div>
       </div>
       <div class="row grid gap-0 row-gap-3 ">
@@ -98,14 +95,13 @@
             ระดับอุดมศึกษาปีที่ 1-4<br>
             คณะอักษรศาสตร์ สาขาวิชาสารสนเทศศาสตร์และบรรณารักษศาสตร์<br>
             มหาวิทยาลัยศิลปากร วิทยาเขตพระราชวังสนามจันทร์ จังหวัดนครปฐม<br>
-           - ได้รับทุนการศึกษาผลการเรียนเด่นประจำปีการศึกษา 2565 <a href="file/1.pdf"
+            - ได้รับทุนการศึกษาผลการเรียนเด่นประจำปีการศึกษา 2565 <a href="file/1.pdf"
 
               target="_blank" style="color: #0d140d;">download.</a> </p>
           <p> <strong>⦁ 2556-2562</strong><br>
             ระดับมัธยมศึกษาปีที่ 1-6<br>
             แผนการเรียนวิทยาศาสตร์ - คณิตศาสตร์<br>
-            โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา จังหวัดขอนแก่น
-          </p>
+            โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา จังหวัดขอนแก่น </p>
         </div>
         <div class="col-md-6 col-sm-6 py-2  my-2 g-col-12  ">
           <h5>ทักษะและความสามารถ</h5>
@@ -123,16 +119,17 @@
         <div class="col-md-6 col-sm-6 py-2 my-2   g-col-12 my-bg-2 my-text  ">
           <h5> การสอบวัดระดับ</h5>
           <hr>
-          <p> TOPIK <a href="file/TOPIK.pdf" target="_blank" style="color: white;">download.</a>
-            <br>
-            TOEFL ITP <a href="file/TOEFL.pdf" target="_blank" style="color: white;">download.</a>
-          </p>
-        </div>
+          <p> TOPIK <a href="file/topik.pdf" target="_blank" style="color: white;">download.
+              </a> <br> TOEFL ITP <a href="file/toefl.pdf" target="_blank" style="color: white;">download.
+              </a></p> </div>
         <div class="col-md-6 col-sm-6 py-2 my-2 g-col-12 my-bg-2 my-text ">
           <h5>ผลงาน</h5>
           <hr>
-          <p> ทำ Subtitle <a href="file/video.mov" target="_blank" style="color: white;">download.
-              </a><br> ตัดคลิปส่งงาน <a href="https://www.canva.com/design/DAFasiEHBwA/tFXZ_87abPYWljPo5qJu8A/edit"
+          <p> ทำ Subtitle <a href="https://drive.google.com/file/d/1CJVWRXHa0XfIAqv_XrRMr5pSCrCn8Yo1/view?usp=sharing"
+
+              target="_blank" style="color: white;">download.
+            </a> <br>
+            ตัดคลิปส่งงาน <a href="https://www.canva.com/design/DAFasiEHBwA/tFXZ_87abPYWljPo5qJu8A/edit"
 
               target="_blank" style="color: white;">download. </a></p>
         </div>
@@ -143,6 +140,5 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
-    
   </body>
 </html>
